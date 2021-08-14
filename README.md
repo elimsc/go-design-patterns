@@ -1,7 +1,7 @@
 # go设计模式
 
 创建型  
-- [ ] 单例模式(Singleton Design Pattern)  
+- [x] 单例模式(Singleton Design Pattern)  
 - [ ] 工厂模式(Factory Design Pattern)  
 - [ ] 建造者模式(Builder Design Pattern)  
 - [ ] 原型模式(Prototype Design Pattern)  
