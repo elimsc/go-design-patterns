@@ -27,3 +27,6 @@
 - [ ] 命令模式(Command Design Pattern)  
 - [ ] 解释器模式(Interpreter Design Pattern)  
 - [ ] 中介模式(Mediator Design Pattern)  
+
+其他
+- [ ] Functional Options https://coolshell.cn/articles/21146.html
