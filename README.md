@@ -29,4 +29,4 @@
 - [ ] 中介模式(Mediator Design Pattern)  
 
 其他
-- [ ] Functional Options https://coolshell.cn/articles/21146.html
+- [x] Functional Options https://coolshell.cn/articles/21146.html
