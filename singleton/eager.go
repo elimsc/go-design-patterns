@@ -1,4 +1,4 @@
-package singleton
+package main
 
 type Singleton struct{}
 

@@ -1,4 +1,4 @@
-package funcopt
+package main
 
 import (
 	"crypto/tls"
