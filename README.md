@@ -1,5 +1,7 @@
 # go设计模式
 
+ref: https://github.com/tmrts/go-patterns
+
 创建型  
 - [x] 单例模式(Singleton Design Pattern)  
 - [ ] 工厂模式(Factory Design Pattern)  
